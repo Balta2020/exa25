@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 ,NovaSports
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/rmfhl85k.m3u8?s=xH2JcG9M8-CpqUvaxSTLkw&e=1615244340
+#EXTINF:-1 ,Bein Francia
+https://e4.espncdn.me/ingest02/71597.m3u8?sf=UjVCaG5Dd3JsUw==&token=AE8Ow8Mez5yWDTp-nPaZLQ&expires=1615238478&rnd=
+#EXTINF:-1 ,Francia
+https://e1.espncdn.me/ingest013/55048.m3u8?sf=Y21kT05COFRFRw==&token=kizDl5GCKv5-Ttuz0s-nqA&expires=1615238159&rnd=
+#EXTINF:-1 ,SPORTV 
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1 ,Francia 2
+https://e1.espncdn.me/ingest02/34836.m3u8?sf=cmZkWEZ1N2dwdw==&token=aSkahD2Aw7nH5EEdkZkp5w&expires=1615238323&rnd=
+#EXTINF:-1 ,Francia 3
+https://e2.espncdn.me/ingest02/59098.m3u8?sf=YmwwM3pQRTFDRA==&token=ys0t96a8y5L54kl5JdkDyg&expires=1615238631&rnd=
+#EXTINF:-1 ,RCM 1
+https://e1.espncdn.me/ingest013/56900.m3u8?sf=c3loc0VHY2M1MA==&token=r5VaipecPBEeBhXBMO3NHA&expires=1615238793&rnd=
+#EXTINF:-1 ,RCM 2
+https://e4.espncdn.me/ingest013/66527.m3u8?sf=bDREU0x4WlAyVA==&token=-SILwyFk_YuJPsCWmAlkNw&expires=1615238958&rnd=
